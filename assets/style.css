@@ -1,0 +1,72 @@
+.main-wrapper{
+    padding: 30px;
+    width: 100%;
+    max-width: 100%;
+    margin-top: 88.8px;
+}
+
+.contact-col{
+	text-align: center;
+}
+
+.contact-stat{
+	margin: 32px 0;
+}
+
+.profile-image{
+  display: inline-block;
+  width: 400px;
+  height: 400px;
+  border-radius: 50%;
+
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  background-image: url('Images/CONNOR_KIRKWOOD-006.jpg');
+}
+
+.main-nav{
+    position: fixed;
+    width: 100%;
+    top: 0;
+    z-index: 999;
+}
+
+.project-card{
+    width: 80%;
+    margin: 0 auto 16px auto;
+}
+
+.project-card-img{
+    vertical-align: middle;
+    border-style: none;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    height: 250px;
+}
+
+.hero{
+	background-repeat: no-repeat;
+  background-position: 50% 47%;
+  background-size: cover;
+  background-image: url('Images/Drone2.jpg');
+  height: 350px;
+  position: relative;
+  width: 100%;
+}
+
+.hero h1{
+	font-size: 25px;
+	position: absolute;
+	bottom: 0;
+	right: 0;
+}
+
+.social-icon{
+    color: darkgray;
+}
+.social-icon:hover{
+    color:white;
+    cursor: pointer;
+}

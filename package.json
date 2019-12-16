@@ -1,0 +1,27 @@
+{
+  "name": "showing-off",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ckirkwood7464/Showing-Off.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ckirkwood7464/Showing-Off/issues"
+  },
+  "homepage": "https://github.com/ckirkwood7464/Showing-Off#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  },
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "feather-icons": "^4.25.0"
+  }
+}
